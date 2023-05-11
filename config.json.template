@@ -127,7 +127,7 @@
         "_model": "Image Better (GoPro)",
         "image": "image"
       },
-      "desc": "去除运动模糊"
+      "desc": "形成超级分辨率"
     {
       "keywords": [
         "去除模糊"
