@@ -34,6 +34,21 @@
     },
     {
       "keywords": [
+        "kandinsky",
+        "kd"
+      ],
+      "params": {
+        "model": "ai-forever/kandinsky-2",
+        "version": "601eea49d49003e6ea75a11527209c4f510a93e2112c969d548fbb45b9c4f19f",
+        "negative_prompt": "",
+        "prompt": "masterpiece, best quality, illustration, beautiful detailed, finely detailed, dramatic light, intricate details",
+        "num_inference_steps": 30,
+        "guidance_scale": 7
+      },
+      "desc": "使用kandinsky-2模型出图"
+    },
+    {
+      "keywords": [
         "竖版"
       ],
       "params": {
