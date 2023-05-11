@@ -119,6 +119,17 @@
     },
     {
       "keywords": [
+        "超分"
+      ],
+      "params": {
+        "model": "cjwbw/real-esrgan",
+        "version": "d0ee3d708c9b911f122a4ad90046c5d26a0293b99476d697f6bb7f2e251ce2d4",
+        "_model": "Image Better (GoPro)",
+        "image": "image"
+      },
+      "desc": "去除运动模糊"
+    {
+      "keywords": [
         "去除模糊"
       ],
       "params": {
